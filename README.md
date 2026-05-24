@@ -21,6 +21,10 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **CIRCUIT DIAGRAM:**
+  
+  
+  <img width="684" height="327" alt="WhatsApp Image 2026-05-24 at 2 52 38 PM" src="https://github.com/user-attachments/assets/0427eb60-7c89-48ff-b911-fa6301dc226b" />
+
 
 
 
@@ -31,8 +35,13 @@ Compare the calculated values and measured values of voltage in both the cases.
 **Calculation:**
 
 
+**Output:**
+    <img width="1912" height="898" alt="Screenshot 2026-05-21 153645" src="https://github.com/user-attachments/assets/18402043-43c5-4f8e-8634-ed4d6ce5da51" />
+
 
 **Marksplitup:**
+<img width="1280" height="698" alt="WhatsApp Image 2026-05-24 at 2 16 47 PM" src="https://github.com/user-attachments/assets/666ece3b-0ae6-4355-902a-6c4e4c1aabb8" />
+
 
 
 **RESULT:**
